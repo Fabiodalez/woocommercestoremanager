@@ -1,0 +1,13 @@
+{
+    "store_url": "",
+    "consumer_key": "",
+    "consumer_secret": "",
+    "connected": false,
+    "last_test": null,
+    "settings": {
+        "timezone": "Europe\/Rome",
+        "currency": "EUR",
+        "date_format": "d\/m\/Y",
+        "products_per_page": 20
+    }
+}
